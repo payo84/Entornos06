@@ -4,8 +4,13 @@ public class PrimeraTarea {
         System.out.println("Modulo: Entornos de Desarrollo");
 		System.out.println("Esto lo a�ado para ver si GIT recoge los cambios");
         System.out.println("Hacemos la prueba");
+<<<<<<< HEAD
         System.out.println("RAMAS GUSTAVO");
         System.out.println("CAMBIOS EN RAMAS GUSTAVO");
         System.out.println("VOLVEMOS A MAIN");
+=======
+        System.out.println("RAMAS");
+        System.out.println("RAMAS GUSTAVO");
+>>>>>>> RamasGustavo
     }
 }
